@@ -3,7 +3,7 @@ import streamlit as st
 from google import genai
 from google.genai import types
 
-MODEL = "gemini-2.5-flash-lite"
+MODEL = "gemini-3.5-flash-lite"
 VOICE = "JBFqnCBsd6RMkjVDRZzb"  # ElevenLabs George
 MAX_TURNS = 20
 
